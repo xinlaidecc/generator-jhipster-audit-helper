@@ -86,7 +86,7 @@ module.exports = class extends BaseGenerator {
                 type: 'list',
                 name: 'updateType',
                 message:
-                    'Do you want to enable audit for all existing entities?',
+                    'Do you want to enable audit for all existing entities use cc audit helper ?',
                 choices: [
                     {
                         name: 'Yes, update all',
