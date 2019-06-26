@@ -16,32 +16,12 @@ As this is a [JHipster](http://jhipster.github.io/) module, we expect you have J
 
 # Installation
 
-## With Yarn
-
-To install this module:
-
-```bash
-yarn global add generator-jhipster-audit-helper
-```
-
-To update this module:
-
-```bash
-yarn global upgrade generator-jhipster-audit-helper
-```
-
 ## With NPM
 
 To install this module:
 
 ```bash
-npm install -g generator-jhipster-audit-helper
-```
-
-To update this module:
-
-```bash
-npm update -g generator-jhipster-audit-helper
+npm install -g
 ```
 
 # Usage
